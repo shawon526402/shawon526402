@@ -1,4 +1,3 @@
-```markdown
 <!-- ========================= HEADER ========================= -->
 
 <h1 align="center">Hi 👋, I'm Md. Sifat Mahmud Shawon</h1>
